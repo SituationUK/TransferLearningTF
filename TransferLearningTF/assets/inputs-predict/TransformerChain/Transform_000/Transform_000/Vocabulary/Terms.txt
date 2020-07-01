@@ -1,0 +1,5 @@
+# Number of terms = 4
+0	broccoli
+1	pizza
+2	teddy
+3	toaster
